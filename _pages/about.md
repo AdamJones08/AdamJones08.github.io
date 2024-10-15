@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Adam M. Jones 
 
 # 410-399-1549 // adamjones@student.hcps.org // Harford County, MD
