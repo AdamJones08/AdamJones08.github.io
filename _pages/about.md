@@ -11,10 +11,6 @@ redirect_from:
 
 # 410-399-1549 // adamjones@student.hcps.org // Harford County, MD
 
-_____________________________________________________________________________ 
-Objective: I am seeking the computer-aide position utilizing my skills and background in computer science, Java, programming, and database design. 
-_____________________________________________________________________________ 
-
 
 **Work Experience:**
 
@@ -31,7 +27,8 @@ _____________________________________________________________________________
 -Supervised various activities within kids' zone 
 
 -Helped improve the fan experience 
-_________________________________________________________________________
+
+
 **2024 Real-World Internships in Science and Engineering (RISE) internship**
 
 7/8/2024 - 7/19/2024 
@@ -41,7 +38,8 @@ _________________________________________________________________________
 -Given the opportunity to get real world work experience in a professional/lab setting 
 
 -Learned valuable work skills 
-_____________________________________________________________________________ 
+
+
 **Education:**
 
 **Havre de Grace High school**
@@ -55,7 +53,8 @@ _____________________________________________________________________________
 -Currently enrolled in AP computer science A 
 
 -ITOA magnet program is focused on database management and computer science/programming in Java 
-_____________________________________________________________________________ 
+
+
 
 **Skills and Accomplishments:**
 
@@ -70,7 +69,8 @@ _____________________________________________________________________________
 -Proficient in teamwork 
 
 -Excels in communication 
-_____________________________________________________________________________ 
+
+
 **Extracurricular activities:**
 
 -NHS member 
@@ -83,7 +83,7 @@ _____________________________________________________________________________
 
 -3rd year Speech and Debate 
 
-_____________________________________________________________________________ 
+
 
 **Certifications:**
 
