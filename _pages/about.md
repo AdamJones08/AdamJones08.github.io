@@ -12,6 +12,7 @@ redirect_from:
 # 410-399-1549 // adamjones@student.hcps.org // Harford County, MD
 
 
+
 **Work Experience:**
 
 **Aberdeen IronBirds** 
@@ -29,6 +30,7 @@ redirect_from:
 -Helped improve the fan experience 
 
 
+
 **2024 Real-World Internships in Science and Engineering (RISE) internship**
 
 7/8/2024 - 7/19/2024 
@@ -38,6 +40,7 @@ redirect_from:
 -Given the opportunity to get real world work experience in a professional/lab setting 
 
 -Learned valuable work skills 
+
 
 
 **Education:**
@@ -69,6 +72,7 @@ redirect_from:
 -Proficient in teamwork 
 
 -Excels in communication 
+
 
 
 **Extracurricular activities:**
