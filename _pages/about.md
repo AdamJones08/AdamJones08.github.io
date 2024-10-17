@@ -10,7 +10,7 @@ redirect_from:
 
 # Adam M. Jones 
 
-# 410-399-1549 // adamjones@student.hcps.org // Harford County, MD
+#  // adamjones@student.hcps.org // Harford County, MD
 
 _____________________________________________________________________________ 
 Objective: I am seeking the computer-aide position utilizing my skills and background in computer science, Java, programming, and database design. 
