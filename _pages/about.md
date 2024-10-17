@@ -14,6 +14,8 @@ redirect_from:
 _____________________________________________________________________________ 
 Objective: I am seeking the computer-aide position utilizing my skills and background in computer science, Java, programming, and database design. 
 _____________________________________________________________________________ 
+
+
 **Work Experience:**
 
 **Aberdeen IronBirds** 
