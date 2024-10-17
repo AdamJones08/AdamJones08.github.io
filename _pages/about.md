@@ -91,3 +91,4 @@ redirect_from:
 
 **Certifications:**
 
+-Oracle Database Foundations certified (1Z0-006) 
