@@ -93,3 +93,5 @@ Objective: I am seeking the computer-aide position utilizing my skills and backg
 
 # Projects
 https://github.com/AdamJones08/Baseball-Statistics
+
+This app is meant to show/help visualise baseball statistics during the statcast era (Statcast is a tool utilized by Major League Baseball to more accurately track statistics). The app includes search pages for Baserunning, Hitting, and Pitching that allow you to filter by different statistics. The app also includes graphs to help show the data in a visual format rather then just numbers. The main goal is to provide statistics which may be confusing in an easy, readable format for people to access.
